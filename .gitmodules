@@ -1,0 +1,3 @@
+[submodule "learn-jenkins"]
+	path = learn-jenkins
+	url = https://github.com/DA01171997/learn-jenkins.git
